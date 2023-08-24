@@ -1,4 +1,9 @@
 {
+  "name": "socketio-chat",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon app"
+  },
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
